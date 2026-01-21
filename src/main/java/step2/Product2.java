@@ -1,6 +1,6 @@
 package step2;
 
-public class Product2 {
+public class Product2 { // 상품 데이터 규격
 
     public String name; //상품명
     public int price; // 가격
