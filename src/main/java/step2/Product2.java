@@ -1,6 +1,6 @@
-package step1;
+package step2;
 
-public class product1 {
+public class Product2 {
 
     public String name; //상품명
     public int price; // 가격
@@ -8,7 +8,7 @@ public class product1 {
     public int stock; // 재고수량
 
     // 상품 생성 시 정보 채우기
-    public product1(String name, int price, int stock, String description) {
+    public Product2(String name, int price, int stock, String description) {
         this.name = name;
         this.price = price;
         this.description = description;
