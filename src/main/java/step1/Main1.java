@@ -11,10 +11,10 @@ public class Main1 {
         List<Product1> products = new ArrayList<>();
 
         // 바구니에 상품 채우기
-        products.add(new Product1("Galaxy S25", 1200000, 500, "최신 안드로이드 스마트폰"));
-        products.add(new Product1("iPhone 16", 1350000, 300, "Apple의 최신 스마트폰"));
-        products.add(new Product1("MacBook Pro", 2400000, 500, "M3 칩셋이 탑재된 노트북"));
-        products.add(new Product1("AirPods Pro", 3500000, 1000, "노이즈 캔슬링 무선 이어폰"));
+        products.add(new Product1("Galaxy S25", 1200000, 50, "최신 안드로이드 스마트폰"));
+        products.add(new Product1("iPhone 17", 1350000, 130, "Apple의 최신 스마트폰"));
+        products.add(new Product1("MacBook Pro", 2400000, 70, "M4 칩셋이 탑재된 노트북"));
+        products.add(new Product1("AirPods Pro", 3500000, 100, "노이즈 캔슬링 무선 이어폰"));
 
         Scanner sc = new Scanner(System.in);
 
